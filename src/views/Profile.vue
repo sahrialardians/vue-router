@@ -3,11 +3,14 @@
       <div class="container">
           <div class="row">
               <div class="col-12">
-                  <div class="media">
+                  <div class="media text-left">
                     <img class="mr-3" alt="">
                     <div class="media-body">
                         <h5 class="mt-0">Sahrial Ardians</h5>
-                        I am a web developer based in Medan, Indonesia. And I focus on back-end developers. But I also have a passion for website design and mobile devices.
+                        <p>
+                            I am a web developer based in Medan, Indonesia. And I focus on back-end developers. But I also have a passion 
+                            <br>for website design and mobile devices.
+                        </p>
                     </div>
                   </div>
               </div>
