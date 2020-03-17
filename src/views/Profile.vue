@@ -4,7 +4,7 @@
           <div class="row">
               <div class="col-12">
                   <div class="media text-left">
-                    <img class="mr-3" alt="">
+                    <img src="../assets/photo-profile.png" class="mr-3" alt="">
                     <div class="media-body">
                         <h5 class="mt-0">Sahrial Ardians</h5>
                         <p>
