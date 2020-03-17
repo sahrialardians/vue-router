@@ -8,6 +8,7 @@
 <script>
 // @ is an alias to /src
 // import HelloWorld from '@/components/HelloWorld.vue'
+import 'bootstrap/dist/css/bootstrap.css'
 
 export default {
   name: 'Profile',
