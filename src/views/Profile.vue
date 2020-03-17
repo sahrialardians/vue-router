@@ -1,7 +1,18 @@
 <template>
   <div class="profile">
-    <h1>This is an profile page</h1>
-    <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
+      <div class="container">
+          <div class="row">
+              <div class="col-12">
+                  <div class="media">
+                    <img src="./assets/profile_logo.jpg" class="mr-3" alt="User Profile">
+                    <div class="media-body">
+                        <h5 class="mt-0">Sahrial Ardians</h5>
+                        I am a web developer based in Medan, Indonesia. And I focus on back-end developers. But I also have a passion for website design and mobile devices.
+                    </div>
+                  </div>
+              </div>
+          </div>
+      </div>
   </div>
 </template>
 
