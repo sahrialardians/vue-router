@@ -6,7 +6,7 @@
                   <div class="media text-left">
                     <img src="../assets/photo-profile.png" class="mr-3 img-profile" alt="">
                     <div class="media-body">
-                        <h5 class="mt-0">Sahrial Ardians</h5>
+                        <h5 class="mt-0">{{ firstName }} {{ lastName }}</h5>
                         <p>
                             I am a web developer based in Medan, Indonesia. And I focus on back-end developers. But I also have a passion for website design and mobile devices.
                         </p>
@@ -25,8 +25,13 @@ import 'bootstrap/dist/css/bootstrap.css'
 
 export default {
   name: 'Profile',
+  data: function() {
+      return {
+          firstName: 'Sahrial',
+          lastName: 'Ardians'
+      }
+  },
   components: {
-    // HelloWorld
   }
 }
 </script>
